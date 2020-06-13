@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title> Consoles </Title>
+
+</head>
+
+<body>
+
+<h1> Sony </h1>
+<p1> PS4 </p1>
+<p2> PS2 </p2>
+<h1> PC/Stream </h1>
+<h1> Nintendo </h1>
+<p3> Gameboy Advance </p3>
+<p4> Wii </p4>
+<p5> Nintendo Switch </p5>
+<h1> Xbox 360 <h1>
+
+</body>
+
+<footer>
+
+<p6> I can always use an emulator but i'd rather not! </p6>
+
+</html>
+
