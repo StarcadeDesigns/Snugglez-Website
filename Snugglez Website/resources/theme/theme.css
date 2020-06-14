@@ -61,38 +61,38 @@
 	width:auto;
 } 
 a.menubar-button:hover {
-	
+	color: rgb(255,165,0)!important;
 } 
 body {
-	background-color: rgb(50,50,50);
+  background-color: rgb(50,50,50);
 }
 h1,h2,h3,h4,h5,h6 {
-	color: white;
+  color: white;
 }
 p {
-	color: white;
+  color: white;
 }
 a:link {
-	color: cyan;
-	background-color: transparent;
-	text-decoration: none;
+  color: cyan;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 a:visited {
-	color: pink;
-	background-color: transparent;
-	text-decoration: none;
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 a:hover {
-	color: white;
-	background-color: transparent;
-	text-decoration: underline;
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 a:active {
-	color: rgb(200,200,200);
-	background-color: transparent;
-	text-decoration: underline;
+  color: rgb(200,200,200);
+  background-color: transparent;
+  text-decoration: underline;
 }
 
